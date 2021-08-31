@@ -12,11 +12,11 @@ This project includes training and predicting processes with LSTM for stock data
 - Support predicting any number of days
 - Support train visualization and log record
 
-![](https://github.com/zhgenli/Stock_Predict_with_LSTM/blob/master/figure/crawler.png)
+![predict_high_with_pytorch](https://github.com/zhgenli/Stock_Predict_with_LSTM/blob/master/figure/crawler.png)
 
-![](https://github.com/zhgenli/Stock_Predict_with_LSTM/blob/master/figure/train.png)
+![predict_high_with_pytorch](https://github.com/zhgenli/Stock_Predict_with_LSTM/blob/master/figure/train.png)
 
-![](https://github.com/zhgenli/Stock_Predict_with_LSTM/blob/master/figure/招商中证白酒指数(LOF)A(161725)增长天数日增长率(近100天)_20210831.png)
+![predict_high_with_pytorch](https://github.com/zhgenli/Stock_Predict_with_LSTM/blob/master/figure/招商中证白酒指数(LOF)A(161725)增长天数日增长率(近100天)_20210831.png)
 
-![](https://github.com/zhgenli/Stock_Predict_with_LSTM/blob/master/figure/predict_high_with_pytorch.png)
+![predict_high_with_pytorch](https://github.com/zhgenli/Stock_Predict_with_LSTM/blob/master/figure/predict_high_with_pytorch.png)
 
